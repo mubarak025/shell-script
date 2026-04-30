@@ -1,0 +1,5 @@
+timestamp,level,component,message
+2026-04-24 10:00:01,INFO,AuthService,User login successful: user_id=101
+2026-04-24 10:00:05,WARN,Database,Slow query detected: 350ms
+2026-04-24 10:00:10,ERROR,PaymentGate,Transaction failed: invalid_token
+
