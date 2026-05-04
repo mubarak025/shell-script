@@ -8,4 +8,4 @@ sudo systemctl enable nginx
 
 echo "nginx installed"
 
-
+# this is new shellscript 
