@@ -1,0 +1,6 @@
+Timestamp,Level,Component,Message,StatusCode
+2026-10-23T10:45:00Z,INFO,AuthService,User login successful: user_102,200
+2026-10-23T10:46:12Z,WARNING,Database,Connection latency high (450ms),
+2026-10-23T10:47:05Z,ERROR,PaymentGateway,Transaction failed: Insufficient funds,402
+2026-10-23T10:50:00Z,DEBUG,Cache,Cache flushed for user_102,200
+
